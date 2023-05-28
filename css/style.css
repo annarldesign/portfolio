@@ -11,7 +11,7 @@
 
 body {
   background: #ffffff;
-  color: #87e2dd;
+  color: #5A5A5A;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -32,25 +32,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #5A5A5A;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #5A5A5A;
   font-size: 14px;
   font-weight: 600;
 }
 
-h3 {color: #081534;
-font-weight: 600;
+h3 {color: #5A5A5A;
+font-weight: 300;
 font-size: 1.1em
 line-height: 1.65;
 margin: 0 0 1em 0;
 }
 
 a {
-  color: #292929;
+  color: #5A5A5A;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -68,7 +68,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #F1D3BB;
+  color: #f1d3bb;
   text-decoration: underline;
 }
 
@@ -93,17 +93,17 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #F1D3BB;
+  color: #5A5A5A;
   line-height: 28px;
 }
 
 ::-moz-selection {
-  background: #F1D3BB;
+  background: #f1d3bb;
   color: #fff;
 }
 
 ::selection {
-  background: #F1D3BB;
+  background: #f1d3bb;
   color: #fff;
 }
 
@@ -172,7 +172,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #F1D3BB;
+  background: #f1d3bb;
 }
 
 .mb-30 {
@@ -309,7 +309,7 @@ a.icon.alt:active:before {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
+  background: url("../images/home-purple.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -365,7 +365,7 @@ a.icon.alt:active:before {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #F1D3BB;
+  border: 20px solid #f1d3bb;
 }
 
 #about .div-img-bg .about-img img {
@@ -406,7 +406,7 @@ a.icon.alt:active:before {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #5A5A5A;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -421,7 +421,7 @@ a.icon.alt:active:before {
 
 .services-block i {
   font-size: 44px;
-  color: #F1D3BB;
+  color: #f1d3bb;
   line-height: 44px;
 }
 
@@ -448,7 +448,7 @@ a.icon.alt:active:before {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #F1D3BB;
+  background-color: #f1d3bb;
 }
 
 .owl-nav {
@@ -493,7 +493,7 @@ a.icon.alt:active:before {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #F1D3BB;
+  color: #f1d3bb;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -558,7 +558,7 @@ a.icon.alt:active:before {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: #5A5A5A;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -567,7 +567,7 @@ a.icon.alt:active:before {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #F1D3BB;
+  color: #f1d3bb;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -678,7 +678,7 @@ a.icon.alt:active:before {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #F1D3BB;
+  color: #f1d3bb;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
